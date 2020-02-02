@@ -1,10 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c413407a-aa5f-4696-bea7-aa98c3e3d241" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_actions/weather.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_constants/strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_helpers/auth-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_helpers/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_reducers/weather.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_services/weatherstack.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/svg/Down.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeatherApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WqYEDH9UxkDHzSBoKAekKMS589" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c413407a-aa5f-4696-bea7-aa98c3e3d241" name="Default Changelist" comment="" />
+      <created>1579878477540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579878477540</updated>
+      <workItem from="1579878478875" duration="2668000" />
+      <workItem from="1579955962381" duration="7900000" />
+      <workItem from="1580151701371" duration="9016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="55" key="#File_Watchers" timestamp="1579887422819">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="272" y="55" key="#File_Watchers/0.23.1440.822@0.23.1440.822" timestamp="1579887422819" />
+    <state x="0" y="468" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580046118992">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="468" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.822@0.23.1440.822" timestamp="1580046118992" />
+    <state x="498" y="180" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580151654342">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="498" y="180" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.822@0.23.1440.822" timestamp="1580151654342" />
+    <state x="460" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580669270634">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="460" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.822@0.23.1440.822" timestamp="1580669270634" />
+    <state x="338" y="178" width="668" height="609" key="EditFileWatcherDialog" timestamp="1579887159116">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="338" y="178" width="668" height="609" key="EditFileWatcherDialog/0.23.1440.822@0.23.1440.822" timestamp="1579887159116" />
+    <state width="620" height="214" key="GridCell.Tab.0.bottom" timestamp="1579956065229">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="620" height="214" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1579956065229" />
+    <state width="620" height="214" key="GridCell.Tab.0.center" timestamp="1579956065228">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="620" height="214" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1579956065228" />
+    <state width="620" height="214" key="GridCell.Tab.0.left" timestamp="1579956065228">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="620" height="214" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1579956065228" />
+    <state width="620" height="214" key="GridCell.Tab.0.right" timestamp="1579956065229">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="620" height="214" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1579956065229" />
+    <state x="196" y="29" key="SettingsEditor" timestamp="1579887342581">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="196" y="29" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1579887342581" />
+    <state x="272" y="55" key="scopes" timestamp="1579887112504">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="272" y="55" key="scopes/0.23.1440.822@0.23.1440.822" timestamp="1579887112504" />
   </component>
 </project>
