@@ -9,9 +9,8 @@ import {
 const initialState = {
     loading: true,
     error: null,
-    directory: [],
-    tabs: 0,
-    employeeId: 9
+    cities_cached: [],
+    cities_recent: []
 };
 
 function weatherReducer(state=initialState, action) {
@@ -39,10 +38,10 @@ function weatherReducer(state=initialState, action) {
             };
         
         case FAVOURITE_CITY_ADD:
-            if(state.tabs > parseInt(process.env.REACT_APP_MAX_TABS)){
+            if(state.tabs > parseInt(process.env.REACT_APP_MAX_CITIES)){
                 return {
                     ...state,
-                    tabs: parseInt(process.env.REACT_APP_MAX_TABS)
+                    tabs: parseInt(process.env.REACT_APP_MAX_CITIES)
                 };
 
             }else{

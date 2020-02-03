@@ -1,14 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
 import DownSvg from './components/svg/Down.jsx'
-//import {GoogleApiWrapper} from 'google-maps-react';
 import { Map, InfoWindow, Marker, GoogleApiWrapper } from 'google-maps-react';
 
 /*
-
-
 function WeatherApp() {
 
   const API_KEY = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
@@ -34,7 +30,7 @@ function WeatherApp() {
 }
 
 export default WeatherApp
- */
+*/
 
 const style = {
   width: '100%',
@@ -86,8 +82,6 @@ export class MapContainer extends React.Component {
                     </div>
                 </div>
 
-
-
                 <div className=" css-26l3qy-menu">
                     <div className=" css-11unzgr">
                         <div className=" css-9gakcf-option" id="react-select-15-option-0" tabIndex="-1">Ocean</div>
@@ -102,13 +96,8 @@ export class MapContainer extends React.Component {
                         <div className=" css-yt9ioa-option" id="react-select-15-option-9" tabIndex="-1">Silver</div>
                     </div>
                 </div>
-
-
-
                 <input name="colors" type="hidden" value="ocean"/>
-
             </div>
-
         </div>
 
         <Map
